@@ -1,0 +1,7 @@
+.content {
+  font-size: 14px;
+  display: none;
+}
+.content.visible {
+  display: block;
+}

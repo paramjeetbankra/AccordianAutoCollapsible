@@ -1,0 +1,24 @@
+.bar {
+  height: 10px;
+  width: 100%;
+  position: relative;
+}
+
+.backBar,
+.completeBar {
+  position: absolute;
+}
+
+.backBar {
+  width: 100%;
+  top: 2px;
+  height: 100%;
+  background-color: #faf5f5d8;
+}
+
+.completeBar {
+  top: 0;
+  height: 100%;
+  background-color: #6969c0d8;
+  transition: width 0.1s ease-in-out;
+}
