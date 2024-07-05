@@ -23,6 +23,11 @@ const AccordionList = [
     title: "Loreum limp 5",
     content:
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis sapiente laborum cupiditate possimus labore, hic temporibus velit dicta earum"
+  },
+  {
+    title: "Loreum limp 5",
+    content:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis sapiente laborum cupiditate possimus labore, hic temporibus velit dicta earum"
   }
 ];
 
